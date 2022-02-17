@@ -1,0 +1,24 @@
+{
+  "name": "9-tetris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "eslint": "^8.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmcervan/tetris-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmcervan/tetris-basic/issues"
+  },
+  "homepage": "https://github.com/kmcervan/tetris-basic#readme"
+}
